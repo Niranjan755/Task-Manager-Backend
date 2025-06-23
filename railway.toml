@@ -1,5 +1,0 @@
-[build]
-builder = "paketobuildpacks/builder-jammy-base"
-
-[variables]
-BP_JVM_VERSION = "21"
